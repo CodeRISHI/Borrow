@@ -30,7 +30,7 @@ module.exports = function(app, session, passport) {
   //FACEBOOK
   //=============================
   passport.use(new FacebookStrategy({
-    //get infor form configAuth
+    //get info from configAuth
     clientID: configAuth.facebookAuth.appID,
     clientSecret: configAuth.facebookAuth.appSecret,
     callbackURL: configAuth.facebookAuth.callbackUrl,

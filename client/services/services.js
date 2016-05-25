@@ -127,7 +127,7 @@ angular.module('borrow.userServices', [])
     .catch(function(data) {
           console.log('Error: ' + data);
     });
-  }
+  };
 
   return {
     createMessage: createMessage,

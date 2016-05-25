@@ -1,12 +1,19 @@
 # Borrow - Legacy
 
-> an app that allows people to borrow from one another
+> An app that allows people to borrow and lend from each other
+
+## Screenshots
+
+(http://imgur.com/XdQwke6)
+(http://imgur.com/37BCK4z)
+(http://imgur.com/NEFMinG)
+(http://imgur.com/PEck07Y)
 
 ## Team
 
   - __Product Owner__: Claire Hsu
   - __Scrum Master__: Arun Vasudevan
-  - __Development Team Members__: Reid Greer, Kim Curran
+  - __Development Team Members__: Reid Greer, Kim Curran, Claire Hsu, Arun Vasudevan
 
 ## Table of Contents
 
