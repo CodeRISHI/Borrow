@@ -4,10 +4,10 @@
 
 ## Screenshots
 
-  [Landing Page](http://i.imgur.com/XdQwke6.png)
-  [Dashboard](http://i.imgur.com/37BCK4z.png)
-  [Upload an item](http://i.imgur.com/NEFMinG.png)
-  [Search](http://i.imgur.com/PEck07Y.png)
+  ![Landing Page](http://i.imgur.com/XdQwke6.png)
+  ![Dashboard](http://i.imgur.com/37BCK4z.png)
+  ![Upload an item](http://i.imgur.com/NEFMinG.png)
+  ![Search](http://i.imgur.com/PEck07Y.png)
 
 ## Team
 
